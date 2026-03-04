@@ -1,0 +1,5 @@
+{
+  "name": "AI Data Provenance Tool",
+  "description": "A minimal Python tool for tracking AI data provenance and point-in-time scraping signals.",
+  "requestFramePermissions": []
+}
